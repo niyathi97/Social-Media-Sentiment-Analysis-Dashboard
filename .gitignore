@@ -1,0 +1,6 @@
+data/training.1600000.processed.noemoticon.csv
+venv/
+__pycache__/
+*.pyc
+*.pkl
+*.csv
